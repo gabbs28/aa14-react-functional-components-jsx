@@ -1,0 +1,20 @@
+.parent {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.type {
+   background: green; 
+   color: white;
+}
+
+.move {
+    background: white; 
+    color: #33FF00;
+}
+
+.img {
+    border-radius: 50%;
+}
